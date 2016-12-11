@@ -1,2 +1,2 @@
 # datasciencecoursera-answers
-Solutions for data science assignments provided by coursera 
+Solutions for data science assignment  on coursera for R programming 
