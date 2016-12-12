@@ -1,7 +1,7 @@
 #coursera 
 #Course: R programming
 #Taught By:Roger.D.Peng
-#University: John Hopkins University 
+#University: John Hopkins University  
 
 #Answers to the programming questions from week 1 Quiz
 #Load the data set 
